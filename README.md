@@ -1,4 +1,4 @@
-# Anon
+# Anon Game Project
 A simple 3D hack&slash game I developed using Unity for the Game Technologies course I took as part of my master's degree, prepared using free assets from various sources.
 
 The **AnonProject** folder contains the Unity project for the game.
