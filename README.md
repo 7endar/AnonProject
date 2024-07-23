@@ -1,9 +1,11 @@
 # Anon Game Project
 A simple 3D hack&slash game I developed using Unity for the Game Technologies course I took as part of my master's degree, prepared using free assets from various sources.
 
+[Here](https://youtu.be/AX_jrMIXzdg) is the gameplay video of Anon.
+
 You can access the Unity project files of the game by clicking [here](https://drive.google.com/file/d/1JvDHCzlOJINA-B1rjevqZx5Njoi7XYjz/view?usp=sharing).
 
-To play the game, [download](https://drive.google.com/file/d/1jweLmhvVnXmHeXgvgmRTjYGDwjDiYJTZ/view?usp=sharing) and run the **AnonProject.exe**.
+To play the game, download [this file](https://drive.google.com/file/d/1jweLmhvVnXmHeXgvgmRTjYGDwjDiYJTZ/view?usp=sharing) and run the **AnonProject.exe**.
 
 ## Game Levels
 The game consists of only two levels.
